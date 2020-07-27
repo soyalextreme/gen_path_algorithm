@@ -19,6 +19,6 @@ Tambien calcula la distancia maxima recorrida, la distancia minima y el promedio
 esas 100 veces que se dibuja la linea.
 Los pasos van de 10 , 100, 1000, 10000.
 
-Las tablas se generan automaticament con la library bokhe de python.
+Las tablas se generan automaticament con la library bokeh de python.
 
 

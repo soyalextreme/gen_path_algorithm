@@ -1,7 +1,8 @@
 CUIDADO ESTE ALGORITMO PUEDE TRABAR TU COMPU
 A VER SI PUEDES GRAFICAR
 
--requerimientos
+PASOS Y REQUERIMIENTOS
+-En tu directorio
 -Crear tu entorno Virtual
 - Instalar bokeh pip install bokeh (para las graficas)
 -clonar el repo
@@ -19,3 +20,4 @@ esas 100 veces que se dibuja la linea.
 Los pasos van de 10 , 100, 1000, 10000.
 
 Las tablas se generan automaticament con la library bokhe de python.
+

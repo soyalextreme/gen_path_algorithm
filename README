@@ -1,0 +1,21 @@
+CUIDADO ESTE ALGORITMO PUEDE TRABAR TU COMPU
+A VER SI PUEDES GRAFICAR
+
+-requerimientos
+-Crear tu entorno Virtual
+- Instalar bokeh pip install bokeh (para las graficas)
+-clonar el repo
+-correr el main
+
+Hola este es un proyecto echo en la carrera de Machine Learning en Platzi
+Quize hacer mi version para probar si aprendi.
+Genera 4 trablas en las cuales genera 100 caminos distintas que puede tomar 
+dentro de un plano cartesiano si se puede incrementa en 0.1 hacia ambas direcciones.
+En cada Uno elige aleatoriamente una direccion hacia la cual moverse esa es la 
+regla solo se puede mover en una direccion.
+
+Tambien calcula la distancia maxima recorrida, la distancia minima y el promedio en 
+esas 100 veces que se dibuja la linea.
+Los pasos van de 10 , 100, 1000, 10000.
+
+Las tablas se generan automaticament con la library bokhe de python.
